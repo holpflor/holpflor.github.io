@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://holpflor.github.io/sitemap.html.gz
+Sitemap: https://holpflor.github.io/app/sitemap.html.gz
+Sitemap: https://holpflor.github.io/assets/sitemap.html.gz
+Sitemap: https://holpflor.github.io/css/sitemap.html.gz
+Sitemap: https://holpflor.github.io/includes/sitemap.html.gz
+Sitemap: https://holpflor.github.io/item/sitemap.html.gz
+Sitemap: https://holpflor.github.io/src/sitemap.html.gz
